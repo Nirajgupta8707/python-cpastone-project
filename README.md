@@ -29,7 +29,7 @@ This project is a **Python Programming Capstone Project** created to apply Pytho
 
 ## 🎥 Project Video
 
-[Watch Project Video]- {[https://drive.google.com/file/d/1NkVQfThNjXaOtrxnElaLBjvn5k61zwSE/view?usp=sharing]
+[Watch Project Video]- {https://drive.google.com/file/d/1NkVQfThNjXaOtrxnElaLBjvn5k61zwSE/view?usp=sharing]
 
 
 
