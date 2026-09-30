@@ -25,8 +25,7 @@ This project is a **Python Programming Capstone Project** created to apply Pytho
 
 ## 📓 Project
 
-[View Python Project]- {https://colab.research.google.com/drive/17lXBSIkVsOSwwBD1bCU0edyx2NQXdMsM}
-
+[View Python Project]-{ https://colab.research.google.com/drive/17lXBSIkVsOSwwBD1bCU0edyx2NQXdMsM?usp=sharing}
 ## 🎥 Project Video
 
 [Watch Project Video]- {https://drive.google.com/file/d/1NkVQfThNjXaOtrxnElaLBjvn5k61zwSE/view?usp=sharing]
